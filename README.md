@@ -25,8 +25,6 @@ VPC Networking
 
 Event-driven ingestion
 
-Automated transformation
-
 Secure IAM role configuration
 
 Redshift COPY from S3
