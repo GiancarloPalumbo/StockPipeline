@@ -5,7 +5,7 @@ Built an end-to-end serverless data engineering pipeline on AWS that ingests sto
 
 ## Architecture
 
-<img width="644" height="561" alt="stockpipeline2 drawio" src="https://github.com/user-attachments/assets/8e7cf388-fda0-474a-9bc1-a8276c20f1ae" />
+<img width="509" height="511" alt="stockpipeline drawio" src="https://github.com/user-attachments/assets/4c735d7b-4378-4269-be07-27fbe3500b56" />
 
 ## Technologies Used
 
