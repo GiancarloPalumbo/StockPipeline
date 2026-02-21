@@ -1,13 +1,13 @@
-#Stock Market Data Engineering Pipeline (AWS)
-##Overview
+# Stock Market Data Engineering Pipeline (AWS)
+## Overview
 
 Built an end-to-end serverless data engineering pipeline on AWS that ingests stock data, transforms it, stores it in a cloud data warehouse, and visualizes it in a BI dashboard.
 
-##Architecture
+## Architecture
 
 (Insert architecture.png)
 
-##Technologies Used
+## Technologies Used
 
 AWS S3
 
@@ -21,7 +21,7 @@ IAM
 
 VPC Networking
 
-##Key Features
+## Key Features
 
 Event-driven ingestion
 
@@ -33,7 +33,7 @@ Redshift COPY from S3
 
 BI visualization with calculated metrics
 
-##Challenges Solved
+## Challenges Solved
 
 IAM role trust policies
 
@@ -45,6 +45,6 @@ Private VPC networking with QuickSight
 
 Security group configuration
 
-##Outcome
+## Outcome
 
 Successfully built a production-style analytics pipeline capable of loading, transforming, warehousing, and visualizing financial time-series data.
